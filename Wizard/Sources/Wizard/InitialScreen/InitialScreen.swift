@@ -27,5 +27,6 @@ public final InitialScreen: UIViewController {
         label.textColor = .black
         view?.addSubview(label)
         label.frame = CGRect(x: 30, y: 100, width: 200, height: 50.0)
+        //Something
     }
 }
